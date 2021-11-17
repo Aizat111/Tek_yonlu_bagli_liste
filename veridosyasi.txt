@@ -1,0 +1,6 @@
+38	Naci	Mutlu
+58	Ali	Demir
+78	Ayla	Meric
+16	Fatma	Verimli
+26	Ayse	Korkmaz
+365	eren	Kaya
